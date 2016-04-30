@@ -127,9 +127,11 @@
     color: #fff;
     text-transform: uppercase;
     font-weight: 600;
+    text-shadow: 1px 1px 1px #888;
   }
   main p {
     font-weight: 300;
+    text-shadow: 1px 1px 1px #888;
   }
   #mc_embed_signup{
     clear: left;
