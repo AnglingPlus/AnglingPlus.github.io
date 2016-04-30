@@ -146,8 +146,8 @@
   #mc_embed_signup .button:hover,
   #mc_embed_signup .button:focus {
     background-color: #d14836 !important;
-    line-height: 1.2em;
-    text-transform: uppercase;
+    line-height: 1.2em !important;
+    text-transform: uppercase !important;
   }
 
 
